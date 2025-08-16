@@ -1,14 +1,12 @@
-
-
+# 央视
 #EXTINF:-1 ,CCTV 1
 http://39.135.33.12/cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225654/index.m3u8
+
 #EXTINF:-1 ,CCTV 2
 http://39.135.33.12/cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225657/index.m3u8
 
-
 #EXTINF:-1 ,CCTV 3
 http://39.135.33.12/cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225713/index.m3u8
-
 
 #EXTINF:-1 ,CCTV 4
 http://39.135.33.12/cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225761/index.m3u8
@@ -25,7 +23,6 @@ http://39.135.33.12/cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225715/index
 #EXTINF:-1 ,CCTV 7
 http://39.135.33.12/cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225892/index.m3u8
 
-
 #EXTINF:-1 ,CCTV 8
 http://39.135.33.12/cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226001/index.m3u8
 
@@ -35,18 +32,17 @@ http://39.135.33.12/cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225663/index
 #EXTINF:-1 ,CCTV 10
 http://39.135.33.12/cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226004/index.m3u8
 
-
 #EXTINF:-1 ,CCTV 11
 http://39.135.33.12/cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225895/index.m3u8
 
 #EXTINF:-1 ,CCTV 12
 http://39.135.33.12/cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226013/index.m3u8
+
 #EXTINF:-1 ,CCTV 13
 http://39.135.33.12/cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226046/index.m3u8
 
 #EXTINF:-1 ,CCTV 14
 http://39.135.33.12/cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225648/index.m3u8
-
 
 #EXTINF:-1 ,CCTV 15
 http://39.135.33.12/cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225693/index.m3u8
@@ -59,8 +55,11 @@ http://39.135.33.12/cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225766/index
 
 
 
+
+# 卫视
 #EXTINF:-1 ,辽宁卫视
 http://39.135.33.12/cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226007/index.m3u8
+
 #EXTINF:-1 ,山东卫视
 http://39.135.33.12/cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226010/index.m3u8
 
@@ -69,6 +68,7 @@ http://39.135.33.12/cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226016/index
 
 #EXTINF:-1 ,天津卫视
 http://39.135.33.12/cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226022/index.m3u8
+
 #EXTINF:-1 ,江苏卫视
 http://39.135.33.12/cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226025/index.m3u8
 
@@ -77,31 +77,36 @@ http://39.135.33.12/cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226052/index
 
 #EXTINF:-1 ,安徽卫视
 http://39.135.33.12/cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225701/index.m3u8
+
 #EXTINF:-1 ,青海卫视
 http://39.135.33.12/cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225705/index.m3u8
+
 #EXTINF:-1 ,广东珠江
 http://39.135.33.12/cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225717/index.m3u8
+
 #EXTINF:-1 ,东方卫视
 http://39.135.33.12/cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225718/index.m3u8
+
 #EXTINF:-1 ,湖南卫视
 http://39.135.33.12/cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225719/index.m3u8
+
 #EXTINF:-1 ,湖北卫视
 http://39.135.33.12/cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225721/index.m3u8
 
 #EXTINF:-1 ,深圳卫视
 http://39.135.33.12/cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225725/index.m3u8
+
 #EXTINF:-1 ,浙江卫视
 http://39.135.33.12/cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225731/index.m3u8
+
 #EXTINF:-1 ,重庆卫视
 http://39.135.33.12/cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225745/index.m3u8
 
-
 #EXTINF:-1 ,海南卫视
 http://39.135.33.12/cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225752/index.m3u8
+
 #EXTINF:-1 ,四川卫视
 http://39.135.33.12/cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225757/index.m3u8
-
-
 
 #EXTINF:-1 ,甘肃卫视
 http://39.135.33.12/cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225764/index.m3u8
@@ -115,63 +120,45 @@ http://39.135.33.12/cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225773/index
 #EXTINF:-1 ,云南卫视
 http://39.135.33.12/cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225794/index.m3u8
 
-
-
-
 #EXTINF:-1 ,北京卫视
 http://39.135.33.12/cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225651/index.m3u8
 
 #EXTINF:-1 ,广东卫视
 http://39.135.33.12/cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225666/index.m3u8
+
 #EXTINF:-1 ,山东卫视
 http://39.135.33.12/cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225672/index.m3u8
-
 
 #EXTINF:-1 ,BRTV 北京卫视
 http://39.135.33.12/cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225651/index.m3u8
 
-
 #EXTINF:-1 ,东南卫视
 http://39.135.33.12/cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225904/index.m3u8
-
 
 #EXTINF:-1 ,上海卫视
 http://39.135.33.12/cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225942/index.m3u8
 
-
 #EXTINF:-1 ,江西卫视
 http://39.135.33.12/cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225957/index.m3u8
-
-
 
 #EXTINF:-1 ,宁夏卫视
 http://39.135.33.12/cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226413/index.m3u8
 
-
-
 #EXTINF:-1 ,西藏卫视
 http://39.135.33.12/cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226416/index.m3u8
-
 
 #EXTINF:-1 ,新疆卫视
 http://39.135.33.12/cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226426/index.m3u8
 
-
 #EXTINF:-1 ,内蒙古卫视
 http://39.135.33.12/cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226429/index.m3u8
-
 
 #EXTINF:-1 ,玉林公共
 http://39.135.33.12/cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226447/index.m3u8
 
 
 
-
-
-
-
-
-
+# 其他
 #EXTINF:-1 ,黑莓动画
 http://39.135.33.12/cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225710/index.m3u8
 
@@ -180,39 +167,33 @@ http://39.135.33.12/cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225724/index
 
 #EXTINF:-1 ,4K 超清
 http://39.135.33.12/cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225726/index.m3u8
+
 #EXTINF:-1 ,军旅剧场
 http://39.135.33.12/cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225727/index.m3u8
 
 #EXTINF:-1 ,TV 34 未知1
 http://39.135.33.12/cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225734/index.m3u8
 
-
 #EXTINF:-1 ,黑莓电影
 http://39.135.33.12/cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225740/index.m3u8
-
 
 #EXTINF:-1 ,TV 58 未知2
 http://39.135.33.12/cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225758/index.m3u8
 
-
 #EXTINF:-1 ,TV 63 未知3
 http://39.135.33.12/cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225763/index.m3u8
 
-
 #EXTINF:-1 ,咪视界
 http://39.135.33.12/cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225842/index.m3u8
-
-
 
 #EXTINF:-1 ,咪沽视频
 http://39.135.33.12/cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225863/index.m3u8
 
 #EXTINF:-1 ,睛彩篮球
 http://39.135.33.12/cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225961/index.m3u8
+
 #EXTINF:-1 ,睛彩竞技
 http://39.135.33.12/cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225972/index.m3u8
-
-
 
 #EXTINF:-1 ,BRTV 纪实科教
 http://39.135.33.12/cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225995/index.m3u8
@@ -223,10 +204,31 @@ http://39.135.33.12/cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226401/index
 #EXTINF:-1 ,金鹰卡通
 http://39.135.33.12/cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226404/index.m3u8
 
-
 #EXTINF:-1 ,动作电影
 http://39.135.33.12/cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221226408/index.m3u8
 
 
 
+
+# 虎牙
+#EXTINF:-1 ,周星驰电影
+http://tv.666150.xyz/huya.php?id=11342412
+
+#EXTINF:-1 ,李连杰电影
+http://tv.666150.xyz/huya.php?id=11342390
+
+#EXTINF:-1 ,沈腾电影
+http://tv.666150.xyz/huya.php?id=11601968
+
+#EXTINF:-1 ,黄渤电影
+http://tv.666150.xyz/huya.php?id=11352876
+
+#EXTINF:-1 ,强森电影
+http://tv.666150.xyz/huya.php?id=21059581
+
+#EXTINF:-1 ,贺岁电影
+http://tv.666150.xyz/huya.php?id=11601986
+
+#EXTINF:-1 ,宇宙科幻合集
+http://tv.666150.xyz/huya.php?id=11342428
 
