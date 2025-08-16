@@ -1,4 +1,4 @@
 # iptv
-移动iptv及少数虎牙电影源。
+移动iptv。
 
 https://feng2208.cloudns.cl/iptv.m3u
